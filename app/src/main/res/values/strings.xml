@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">carLoann</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Car Loan</string>
+    <string name="second_fragment_label">Interest</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="car_price">Car Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_Rate">Interest Rate (%)</string>
+    <string name="loan_period">Loan Period(year)</string>
+    <string name="salary">Salary</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="bank">Bank</string>
+    <string name="interest">Interest Rate(%)</string>
+    <string name="button_close">Close</string>
+    <string name="textViewInterestRate">TextViewInterestRate</string>
+    <string name="textViewBank">TextViewBank</string>
+</resources>
